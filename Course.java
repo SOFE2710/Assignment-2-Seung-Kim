@@ -51,3 +51,4 @@ public class Course{
 
      return code+" "+number+" "+title+", Enrollment = "+classList.size();
   }
+}
